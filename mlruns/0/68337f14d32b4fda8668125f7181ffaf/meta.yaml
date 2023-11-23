@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End%20to%20end%20project/End-to-end-Machine-Learning-Project-with-ML-Flow/mlruns/0/68337f14d32b4fda8668125f7181ffaf/artifacts
+end_time: 1700752673168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68337f14d32b4fda8668125f7181ffaf
+run_name: casual-cub-149
+run_uuid: 68337f14d32b4fda8668125f7181ffaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700752655817
+status: 3
+tags: []
+user_id: Hp
